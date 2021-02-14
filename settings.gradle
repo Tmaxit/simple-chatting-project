@@ -1,0 +1,3 @@
+rootProject.name = 'simple-chatting-project'
+include 'web'
+
