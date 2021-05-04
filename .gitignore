@@ -6,3 +6,5 @@ gradle/
 */.gradle
 */build
 */gradle
+
+web/src/main/front/node_modules/
